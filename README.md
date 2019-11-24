@@ -3,5 +3,5 @@
 __Team Member Info__   
 `Wang Luo 251230`  
 `Yao Yangjian 243147`  
-`Tan Yeechin 259187`  
+`Tan Yee Chian 259187`  
 `Mohd Fazlizam Bin Ahmad Puad 259132`
