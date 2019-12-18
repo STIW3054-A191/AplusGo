@@ -21,7 +21,6 @@ import org.jsoup.select.Elements;
 public class GetLink {
     /** 
  * 根据jsoup方法获取htmlContent 
-        * 加入简单的时间记录 
  * @throws IOException  
  */  
 public String getContentByJsoup(String url){  
