@@ -33,7 +33,7 @@ public String getContentByJsoup(String url){
         .cookie("auth", "token")  
         .timeout(50000)  
         .get();   
-        content=doc.toString();//获取iteye网站的源码html内容   
+        content=doc.toString(); 
     } catch (IOException e) {  
         e.printStackTrace();  
     }    
