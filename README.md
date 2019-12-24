@@ -57,17 +57,14 @@ Bar Chart
 ## YouTube Presentation 
 
 ## References  
-Adam Pritchard(2017) Markdown Cheatsheet. Retrieved from   
-&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+squeue2019(2013) how to run jar from   
+&nbsp;&nbsp;&nbsp;&nbsp; https://blog.csdn.net/sunkun2013/article/details/13167099
 
-The Apache Software Foundation(2019) Busy Developers' Guide to HSSF and XSSF Features. Retrieved from   
-&nbsp;&nbsp;&nbsp;&nbsp; https://poi.apache.org/components/spreadsheet/quick-guide.html
+Liping Wang(2018) how to generate bar chart by java code   
+&nbsp;&nbsp;&nbsp;&nbsp; https://blog.csdn.net/qq_37131111/article/details/78945107
 
-Shane Lee(2018) How to Web Scrape Stock Data with Java using the JSoup Library. Retrieved from   
-&nbsp;&nbsp;&nbsp;&nbsp; https://www.youtube.com/watch?v=tI1qGwhn_bs  
+yongh701(2015) How to create direcotry     
+&nbsp;&nbsp;&nbsp;&nbsp; https://blog.csdn.net/yongh701/article/details/46817889  
 
-StackOverflow(2012) Create directory. If exists, delete directory and its content and create new one in Java. Retrieved from  
-&nbsp;&nbsp;&nbsp;&nbsp; https://stackoverflow.com/questions/12835285/create-directory-if-exists-delete-directory-and-its-content-and-create-new-one/20157588
-
-Vogella(2019) JGit - Tutorial. Retrieved from    
-&nbsp;&nbsp;&nbsp;&nbsp; https://www.vogella.com/tutorials/JGit/article.html
+michaelsnowden(2011) How do I time a method's execution in Java?    
+&nbsp;&nbsp;&nbsp;&nbsp; https://stackoverflow.com/questions/12835285/create-directory-if-exists-delete-directory-and-its-content-and-create-new-one/20157588  
