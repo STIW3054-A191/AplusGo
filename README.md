@@ -7,10 +7,10 @@
 1. [References](#references)
 
 ## Group Info  
-1.Wang Luo 251230  
-1.Yao Yangjian 243147  
-1.Tan Yee Chian 259187  
-1.Mohd Fazlizam Bin Ahmad Puad 259132  
+Wang Luo 251230  
+Yao Yangjian 243147  
+Tan Yee Chian 259187  
+Mohd Fazlizam Bin Ahmad Puad 259132  
 
 ## Introduction  
 This is a real-time system which are developed by using Java programming language (Maven). The system will do the following:-    
