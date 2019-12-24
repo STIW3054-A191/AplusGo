@@ -23,6 +23,8 @@ This is a real-time system which are developed by using Java programming languag
 5) Generate software metrics using CKJM (https://www.spinellis.gr/sw/ckjm/) for each Java program and store the result in a text file.   
 
 ## Result/Output  
+After Clone all the repositories from the list  
+![Image output1](https://github.com/STIW3054-A191/AplusGo/blob/master/Image/003.PNG)
 
 ## UML Class Diagram  
 
