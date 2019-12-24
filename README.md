@@ -48,7 +48,7 @@ Out text
 
 After Generate software metrics using CKJM  
 Excel File  
-![Image output6](https://github.com/STIW3054-A191/AplusGo/blob/master/Image/002.PNG) 
+![Image output6](https://github.com/STIW3054-A191/AplusGo/blob/master/Image/009.PNG) 
 
 Bar Chart  
 ![Image output2](https://github.com/STIW3054-A191/AplusGo/blob/master/Image/001.PNG) 
