@@ -53,6 +53,7 @@ Excel File
 Bar Chart  
 ![Image output2](https://github.com/STIW3054-A191/AplusGo/blob/master/Image/001.PNG) 
 ## UML Class Diagram  
+https://github.com/STIW3054-A191/AplusGo/blob/master/Image/uml_diagram_output.png
 
 ## YouTube Presentation 
 
@@ -68,3 +69,11 @@ yongh701(2015) How to create direcotry
 
 michaelsnowden(2011) How do I time a method's execution in Java?    
 &nbsp;&nbsp;&nbsp;&nbsp; https://stackoverflow.com/questions/12835285/create-directory-if-exists-delete-directory-and-its-content-and-create-new-one/20157588  
+
+ckjm — Chidamber and Kemerer Java Metrics
+&nbsp;&nbsp;&nbsp;&nbsp; https://www.spinellis.gr/sw/ckjm/
+
+Is it possible to convert .jpg to .pdf in Java?
+&nbsp;&nbsp;&nbsp;&nbsp; https://stackoverflow.com/questions/49901345/is-it-possible-to-convert-jpg-to-pdf-in-java
+
+References to my own Asignment 1 & 2
