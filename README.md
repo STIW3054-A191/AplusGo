@@ -53,7 +53,7 @@ Excel File
 Bar Chart  
 ![Image output2](https://github.com/STIW3054-A191/AplusGo/blob/master/Image/001.PNG) 
 ## UML Class Diagram  
-https://github.com/STIW3054-A191/AplusGo/blob/master/Image/uml_diagram_output.png
+![Image output2] (https://github.com/STIW3054-A191/AplusGo/blob/master/Image/uml_diagram_output.png)
 
 ## YouTube Presentation 
 
