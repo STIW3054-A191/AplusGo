@@ -55,7 +55,9 @@ Bar Chart
 ## UML Class Diagram  
 ![Image output2](https://github.com/STIW3054-A191/AplusGo/blob/master/Image/uml_diagram_output.png)
 
-## YouTube Presentation 
+## YouTube Presentation  
+
+https://www.youtube.com/watch?v=awj-OyvQV5U  
 
 ## References  
 squeue2019(2013) how to run jar from   
