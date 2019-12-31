@@ -44,7 +44,7 @@ import org.jfree.data.general.DatasetUtilities;
 
 /**
  *
- * @author Administrator
+ * @author Tan Yee Chain
  */
 public class Test2 {
 
