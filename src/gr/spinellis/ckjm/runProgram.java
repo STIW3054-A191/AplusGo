@@ -99,7 +99,7 @@ public class runProgram{
     }
     
  }
-    public void runProgram() throws InterruptedException{   //main runProgram()
+    public void runProgram() throws InterruptedException{  //main runProgram()
         String path = "D:\\realDemo";
         List<String> pomPathList=new ArrayList<String>();
         for(int i =0;i < getFolder(path).size()-1;i++){
