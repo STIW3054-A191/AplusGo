@@ -1,7 +1,7 @@
 package gr.spinellis.ckjm;
 
 public class Data2 {
-
+ 
     private String matric;
     private String name;
 
