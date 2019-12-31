@@ -1,3 +1,7 @@
+/**
+ *
+ * @author WANG LUO
+ */
 
 package gr.spinellis.ckjm;
 
