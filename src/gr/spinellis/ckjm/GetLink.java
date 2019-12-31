@@ -16,7 +16,7 @@ import org.jsoup.select.Elements;
 
 /**
  *
- * @author WANG LUO
+ * @author Yao Yangjian
  */
 public class GetLink {
     /** 
