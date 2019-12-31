@@ -1,5 +1,5 @@
 package gr.spinellis.ckjm;
-
+ 
 public class Data {
     private int data0;
     private int data1;
