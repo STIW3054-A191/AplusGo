@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author WANG LUO
+ * @author Siti Nur Fatihah Fauzi
  */
 public class CompileFile {
     public static List<String> getFolder(String path){
