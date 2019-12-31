@@ -34,23 +34,20 @@
 </dependency>
       
 	  <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.11</version>
-      <scope>test</scope>
-    </dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
       <version>2.6</version>
-      <scope>test</scope>
       <type>jar</type>
     </dependency>
     <dependency>
       <groupId>org.jsoup</groupId>
       <artifactId>jsoup</artifactId>
       <version>1.12.1</version>
-      <scope>test</scope>
       <type>jar</type>
     </dependency>
     <dependency>
@@ -66,7 +63,6 @@
         <groupId>jfree</groupId>
         <artifactId>jfreechart</artifactId>
         <version>1.0.13</version>
-      <scope>test</scope>
       <type>jar</type>
     </dependency>
 
@@ -83,7 +79,12 @@
 	<artifactId>itextpdf</artifactId>
 	<version>5.5.9</version>
 </dependency>
-
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi</artifactId>
+      <version>4.1.0</version>
+      <type>jar</type>
+    </dependency>
   </dependencies>
 
   <build>
