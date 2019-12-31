@@ -16,7 +16,7 @@ import org.jsoup.select.Elements;
 
 /**
  *
- * @author Yao Yangjian
+ * @author Mohd fazlizam bin ahamd puad
  */
 public class GetLink {
     /** 
