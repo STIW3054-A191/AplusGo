@@ -23,7 +23,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class SaveCkjm {
-    ///////////
+    /////////
     public static List<String> getFolder(String path){ //open directory(D:\realDemo) and get get everyone's assignment1 folder path.
         File file = new File(path);
         File[] array = file.listFiles();
