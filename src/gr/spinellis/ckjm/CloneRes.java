@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author WANG LUO
+ * @author Yao Yangjian
  */
 public class CloneRes extends Thread{
     public boolean mkDirectory(String path){
