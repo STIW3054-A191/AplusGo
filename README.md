@@ -55,6 +55,9 @@ Bar Chart
 ## UML Class Diagram  
 ![Image output2](https://github.com/STIW3054-A191/AplusGo/blob/master/Image/uml_diagram_output.png)
 
+
+The data was collected on October 20. The actual situation may change due to modification. The above data is for reference only！
+
 ## YouTube Presentation  
 
 https://www.youtube.com/watch?v=awj-OyvQV5U  
